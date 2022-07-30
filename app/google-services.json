@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364797175532",
+    "project_id": "animal-82cca",
+    "storage_bucket": "animal-82cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364797175532:android:19ba1a20a8786b71b467c9",
+        "android_client_info": {
+          "package_name": "com.namasake.animal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364797175532-r6miavbbccm8jv1gid62d24bevvnpbe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUX-anqlnDsSlijaGkGQW6ODMwwAU56A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364797175532-r6miavbbccm8jv1gid62d24bevvnpbe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
